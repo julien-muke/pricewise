@@ -24,7 +24,7 @@ Follow these steps to install and run the project:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/adrianhajdin/pricewise.git
+   git clone https://github.com/julien-muke/pricewise.git
    ```
 
 2. **Navigate to the project directory**
